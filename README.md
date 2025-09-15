@@ -40,8 +40,8 @@ project-root/
 ## ⚙️ Installation
 
 # Clone the repository
-git clone [https://github.com/your-username/email-otp-auth-mvc.git](https://github.com/ishanjain1408/email-otp-auth)
-cd email-otp-auth-mvc
+git clone https://github.com/ishanjain1408/email-otp-auth.git
+cd email-otp-auth
 
 # Install dependencies
 npm install
